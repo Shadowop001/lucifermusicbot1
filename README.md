@@ -1,3 +1,21 @@
+# How To Host
+The easiest way to deploy this Bot
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/QueenArzoo/CallMusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+
+## Commands
+
+| Command | Description                                          |
+| ------- | ---------------------------------------------------- |
+| /play   | play the replied audio file or YouTube video         |
+| /pause  | pause the audio stream                               |
+| /resume | resume the audio stream                              |
+| /skip   | skip the current audio stream                        |
+| /mute   | mute the userbot                                     |
+| /unmute | unmute the userbot                                   |
+| /stop   | clear the queue and remove the userbot from the call |
+
+
 # Calls Music 1 — [pytgcalls](https://github.com/MarshalX/tgcalls)-based group call bot with queue and multiple chat support
 
 ## Requirements
@@ -32,22 +50,6 @@ Copy `example.env` to `.env` and fill it with your credentials.
    ```bash
    docker run --env-file .env musicplayer
    ```
-
-### Heroku
-
-[Click here](https://heroku.com/deploy?template=https://github.com/QueenArzoo/CallMusic)
-
-## Commands
-
-| Command | Description                                          |
-| ------- | ---------------------------------------------------- |
-| /play   | play the replied audio file or YouTube video         |
-| /pause  | pause the audio stream                               |
-| /resume | resume the audio stream                              |
-| /skip   | skip the current audio stream                        |
-| /mute   | mute the userbot                                     |
-| /unmute | unmute the userbot                                   |
-| /stop   | clear the queue and remove the userbot from the call |
 
 ## License
 
