@@ -16,8 +16,6 @@ The easiest way to deploy this Bot
 | /stop   | clear the queue and remove the userbot from the call |
 
 
-# Calls Music 1 — [pytgcalls](https://github.com/MarshalX/tgcalls)-based group call bot with queue and multiple chat support
-
 ## Requirements
 
 - FFmpeg
