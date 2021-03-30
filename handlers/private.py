@@ -19,7 +19,7 @@ The commands I currently support are:
 /unmute - unmute the userbot
 /stop - clear the queue and remove the userbot from the call
 
-Also Add this [Music Bot Assistant](t.me/VCPlayRobot).
+Also Add Music Bot Assistant ID To Group
         """,
         reply_markup=InlineKeyboardMarkup(
             [
