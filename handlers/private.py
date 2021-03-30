@@ -25,10 +25,15 @@ Also Add Music Bot Assistant ID To Group
             [
                 [
                     InlineKeyboardButton(
-                        "Group", url="https://t.me/LaylaSupport"
+                        "👥 Group", url="https://t.me/LaylaSupport"
                     ),
                     InlineKeyboardButton(
                         "Channel", url="https://t.me/LaylaList"
+                    )
+                ],
+                [
+                    InlineKeyboardButton(
+                        "💾 Source code", url="https://t.me/LaylaSupport"
                     )
                 ]
             ]
