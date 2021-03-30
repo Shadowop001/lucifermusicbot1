@@ -9,7 +9,7 @@
     "pyrogram",
     "callsmusic"
   ],
-  "repository": "https://github.com/callsmusic/callsmusic",
+  "repository": "https://github.com/QueenArzoo/CallMusic",
   "env": {
     "SESSION_NAME": {
       "description": "Pyrogram session string",
