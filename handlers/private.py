@@ -33,7 +33,7 @@ Also Add Music Bot Assistant ID To Group
                 ],
                 [
                     InlineKeyboardButton(
-                        "💾 Source code", url="https://t.me/LaylaSupport"
+                        "💾 Source code", url="https://github.com/QueenArzoo/CallMusic"
                     )
                 ]
             ]
