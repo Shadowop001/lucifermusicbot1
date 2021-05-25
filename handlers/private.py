@@ -25,15 +25,7 @@ Also Add Music Bot Assistant ID To Group
             [
                 [
                     InlineKeyboardButton(
-                        "👥 Group", url="https://t.me/LaylaSupport"
-                    ),
-                    InlineKeyboardButton(
-                        "Channel", url="https://t.me/LaylaList"
-                    )
-                ],
-                [
-                    InlineKeyboardButton(
-                        "💾 Source code", url="https://github.com/QueenArzoo/CallMusic"
+                        "👑 OWNER", url="https://t.me/D3VIL_LUCIFER"
                     )
                 ]
             ]
